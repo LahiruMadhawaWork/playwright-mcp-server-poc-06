@@ -41,7 +41,7 @@ This project is a proof of concept (POC) for testing the OrangeHRM application u
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/your-username/playwright-mcp-server-poc-06.git
    ```
 2. Navigate to the project directory:
    ```bash
